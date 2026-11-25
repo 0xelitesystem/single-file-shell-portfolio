@@ -1,8 +1,8 @@
-# terminal-portfolio
+# single-file-shell-portfolio
 
 A single-file personal portfolio styled as an interactive terminal. Visitors type commands (`help`, `about`, `projects`, `contact`) and get formatted output. Replace the data, ship.
 
-**Live demo:** https://0xelitesystem.github.io/terminal-portfolio/
+**Live demo:** https://0xelitesystem.github.io/single-file-shell-portfolio/
 
 ## Why this exists
 
@@ -12,7 +12,7 @@ It is one HTML file with no dependencies and no tracking, released under MIT.
 
 ## Use
 
-Open `index.html` in any browser, or visit the hosted version at `https://0xelitesystem.github.io/terminal-portfolio/` once Pages is enabled.
+Open `index.html` in any browser, or visit the hosted version at `https://0xelitesystem.github.io/single-file-shell-portfolio/` once Pages is enabled.
 
 Type a command and press Enter. Try `help` first.
 
@@ -23,8 +23,8 @@ The page makes no network requests. Every command answers from the `CONFIG` obje
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/terminal-portfolio
-cd terminal-portfolio
+git clone https://github.com/0xelitesystem/single-file-shell-portfolio
+cd single-file-shell-portfolio
 ```
 
 Open `index.html` in any browser. Or serve the folder and visit http://localhost:8000:
@@ -92,4 +92,4 @@ MIT. See [LICENSE](LICENSE).
 
 - [single-file-saas-template](https://github.com/0xelitesystem/single-file-saas-template), ship a SaaS in one HTML file
 - [oss-readme-template](https://github.com/0xelitesystem/oss-readme-template), battle-tested README structure
-- [og-image-generator](https://github.com/0xelitesystem/og-image-generator), generate Open Graph cards
+- [og-card-from-text](https://github.com/0xelitesystem/og-card-from-text), generate Open Graph cards
